@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64b12ea5-8267-4422-a111-fe00ef62ecb4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="g2vn2sh0" />
+  </component>
+  <component name="ProjectId" id="1jIqqvc1a0Nn7PJJ2YBPvGUEUTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/plain_ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Web.web/index.html">
+    <configuration name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web" temporary="true" nameIsGenerated="true">
+      <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/packaged_ui/web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Web.web/index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64b12ea5-8267-4422-a111-fe00ef62ecb4" name="Default Changelist" comment="" />
+      <created>1603502147657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603502147657</updated>
+      <workItem from="1603502148674" duration="2775000" />
+      <workItem from="1604004699050" duration="749000" />
+      <workItem from="1604008205573" duration="1578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2142" height="285" key="GridCell.Tab.0.bottom" timestamp="1604008581463">
+      <screen x="-3840" y="23" width="3840" height="1057" />
+    </state>
+    <state width="2142" height="285" key="GridCell.Tab.0.bottom/-3840.23.3840.1057/0.23.1680.1027@-3840.23.3840.1057" timestamp="1604008581463" />
+    <state width="2142" height="285" key="GridCell.Tab.0.center" timestamp="1604008581461">
+      <screen x="-3840" y="23" width="3840" height="1057" />
+    </state>
+    <state width="2142" height="285" key="GridCell.Tab.0.center/-3840.23.3840.1057/0.23.1680.1027@-3840.23.3840.1057" timestamp="1604008581461" />
+    <state width="2142" height="285" key="GridCell.Tab.0.left" timestamp="1604008581460">
+      <screen x="-3840" y="23" width="3840" height="1057" />
+    </state>
+    <state width="2142" height="285" key="GridCell.Tab.0.left/-3840.23.3840.1057/0.23.1680.1027@-3840.23.3840.1057" timestamp="1604008581460" />
+    <state width="2142" height="285" key="GridCell.Tab.0.right" timestamp="1604008581462">
+      <screen x="-3840" y="23" width="3840" height="1057" />
+    </state>
+    <state width="2142" height="285" key="GridCell.Tab.0.right/-3840.23.3840.1057/0.23.1680.1027@-3840.23.3840.1057" timestamp="1604008581462" />
+  </component>
+</project>

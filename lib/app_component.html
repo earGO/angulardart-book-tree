@@ -1,0 +1,19 @@
+<material-drawer temporary #drawer="drawer"
+                 [attr.overlay]="overlay ? '' : null">
+    <div *deferredContent>
+        Here is some drawer content.
+    </div>
+</material-drawer>
+<material-content>
+    <div class="content-area">
+    <header class="material-header shadow">
+        <div class="material-header-row">
+            <material-button class="material-drawer-button" icon (trigger)="drawer.toggle()">
+                <material-icon icon="menu"></material-icon>
+            </material-button>
+        </div>
+    </header>
+
+    </div>
+</material-content>
+
